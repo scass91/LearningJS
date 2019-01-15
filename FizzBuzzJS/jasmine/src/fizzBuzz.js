@@ -5,3 +5,7 @@ if(number % 3 === 0) {
   return number
 }
 }
+
+for(i=1;i<101;i++) {
+console.log(fizzBuzz(i))
+}

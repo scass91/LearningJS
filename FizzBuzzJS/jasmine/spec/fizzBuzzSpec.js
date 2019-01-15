@@ -16,4 +16,8 @@ describe("fizzBuzz", function() {
       expect(fizzBuzz(3)).toEqual("fizz")
     })
 
+    it("Return buzz for numbers divisible by 5", function() {
+      expect(fizzBuzz(5)).toEqual("buzz")
+  })
+
 })
