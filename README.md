@@ -5,7 +5,7 @@
 FizzBuzzJS
 -------
 
-This is a recreation of an old problem, with a strict TDD process followed and an intro to Jasmine
+This is a recreation of an old problem, with a strict TDD process followed and an intro to Jasmine as a testing framework.
 
 Running the app
 ============
@@ -18,3 +18,7 @@ $open SpecRunner.html
 * A local version will open in your browser (Chrome is preferable here)
 * Inspecting the page will show the list of numbers as below
 * If you would like more numbers logged, change the range on line 12 of the fizzBuzz.js file
+
+Results
+===
+![Imgur](https://i.imgur.com/rDtRhHa.png)
