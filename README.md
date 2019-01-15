@@ -1,3 +1,20 @@
 # LearningJS
 
-# A collection of tasks undertaken when learning JS for the first time
+### A collection of tasks undertaken when learning JS
+
+FizzBuzzJS
+-------
+
+This is a recreation of an old problem, with a strict TDD process followed and an intro to Jasmine
+
+Running the app
+============
+
+```
+clone this repo
+$cd LearningJS/FizzBuzzJS/jasmine
+$open SpecRunner.html
+```
+* A local version will open in your browser (Chrome is preferable here)
+* Inspecting the page will show the list of numbers as below
+* If you would like more numbers logged, change the range on line 12 of the fizzBuzz.js file
