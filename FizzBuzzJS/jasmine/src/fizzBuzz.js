@@ -1,3 +1,3 @@
-var fizzBuzz = function (){
-  return 1
+function fizzBuzz(number) {
+ return number
 }
