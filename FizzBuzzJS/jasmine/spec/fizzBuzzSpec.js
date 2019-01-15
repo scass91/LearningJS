@@ -18,6 +18,10 @@ describe("fizzBuzz", function() {
 
     it("Return buzz for numbers divisible by 5", function() {
       expect(fizzBuzz(5)).toEqual("buzz")
-  })
+    })
+
+    it("Return fizzbuzz for numbers divisible by 15", function() {
+      expect(fizzBuzz(15)).toEqual("fizzbuzz")
+    })
 
 })
