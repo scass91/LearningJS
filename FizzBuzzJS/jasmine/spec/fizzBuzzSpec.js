@@ -12,4 +12,8 @@ describe("fizzBuzz", function() {
       expect(fizzBuzz(13)).toEqual(13)
     })
 
+    it("Return fizz for numbers divisible by 3", function() {
+      expect(fizzBuzz(3)).toEqual("fizz")
+    })
+
 })
