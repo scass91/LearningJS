@@ -21,4 +21,4 @@ $open SpecRunner.html
 
 Results
 ===
-![Imgur](https://i.imgur.com/rDtRhHa.png)
+![Imgur](https://i.imgur.com/D3s1DJe.png)
