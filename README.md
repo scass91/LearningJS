@@ -13,9 +13,9 @@ Running the app
 ```
 clone this repo
 $cd LearningJS/FizzBuzzJS/jasmine
-$open SpecRunner.html
+$open -a "Google Chrome" SpecRunner.html
 ```
-* A local version will open in your browser (Chrome is preferable here)
+* A local version will open in your browser
 * Inspecting the page will show the list of numbers as below
 * If you would like more numbers logged, change the range on line 12 of the fizzBuzz.js file
 
